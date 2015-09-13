@@ -1,0 +1,35 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It made easy to find the block where the mistake(difference) was made.Therefore,making it easy to correct the code in lesser time as compared to manual checking. 
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It could save my time of rewriting the particular section of code which is used in the code again and again.Also apart from a section of code,keywords which are repeatedly used would not take much time to code, it would also eradicate the chances of making errors in the spelling context of the keywords.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Manually choosing when to create a commit allows us to commit whenver we feel that the commit size is perfect but manually comiting has some drawback such as power failure,technical errors in system which might lead to loss of data and code.
+
+    On the other hand automatically saving reduces the risk of loss of data and code but it might create too many versions of a code and make the history harder to read.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+ It reduces manual effort of saving each file seperately` after modifying each or some of the files of the project simultaneously and saves the changes automatically.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    It is quite interesting because every time we commit git saves the time,author and the changes made.Even with the diff tag we can find the errors/changes made,which makes it easier to correct. 
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    It is quite easy to find the bug and correct it.So we can make changes in our code without the fear of losing the track.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    For sharing code and learning more about how much easier git can make working on a project.
