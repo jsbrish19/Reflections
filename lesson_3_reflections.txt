@@ -1,1 +1,2 @@
-ADD the first reflection of lesson 3 here.
+When would you want to use a remote repository rather than keeping all your work local?
+It helps us when we want to share our work with our co-workers.
